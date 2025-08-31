@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 Cambio realizado en local
-=======
 Cambio realizado en Github
->>>>>>> ee8d4ce4d6f634cc79f6445d556f59c9a1c5abf2
+
 Este archivo fue creado localmente
 
 He modificado este txt en github
